@@ -9,12 +9,12 @@ This is a book search app created using React.
 
 # Libraries / Frameworks used
 
-React
-Bootstrap
-Express
-Mongoose
-Node.js
-Heroku
+React<br>
+Bootstrap<br>
+Express<br>
+Mongoose<br>
+Node.js<br>
+Heroku<br>
 
 # Set Up
 
